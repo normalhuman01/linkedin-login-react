@@ -1,4 +1,4 @@
-# React LinkedIn Login Button
+# React LinkedIn Login
 
 ```sh
 react-linkedin-login
